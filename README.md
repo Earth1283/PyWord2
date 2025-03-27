@@ -26,4 +26,8 @@ This program currently includes the following features:
 3. (wait im out of things to write)
 
 ## Images/screenshots
+Below is an example of the Light Mode UI 💡
 ![Image](https://i.ibb.co/pBcqgZ7B/image.png)
+
+Below is the Dark Mode UI 🌙
+![Image](https://i.ibb.co/FLVwJjXS/image.png)
