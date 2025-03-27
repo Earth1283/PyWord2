@@ -23,3 +23,7 @@ python /path/to/the/file/main.py
 This program currently includes the following features:
 1. Basic word processing
 2. The creation and editing of `.txt` files. Support for `.rtf` or similar files will be added shortly
+3. (wait im out of things to write)
+
+## Images/screenshots
+![Image](https://i.ibb.co/pBcqgZ7B/image.png)
