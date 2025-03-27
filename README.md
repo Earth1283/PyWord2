@@ -19,3 +19,7 @@ or
 ```bash
 python /path/to/the/file/main.py
 ```
+## Highlights
+This program currently includes the following features:
+1. Basic word processing
+2. The creation and editing of `.txt` files. Support for `.rtf` or similar files will be added shortly
