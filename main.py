@@ -9,11 +9,6 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtGui import QIcon, QFont, QColor, QPalette, QTextCursor # Import QPalette from QtGui
 from PyQt5.QtCore import Qt, QTimer, QObject, pyqtSignal
 
-# Breif notes section:
-# This works by adding threads to offload calculation tasks of other (potentially long) documents into the background
-# Before you report an issue, please check if you have PyQt5 Installed!
-# Autoinstallation will come soon
-
 
 class WordEditor(QMainWindow):
     """
@@ -89,6 +84,7 @@ class WordEditor(QMainWindow):
         self.show()
 
     def createActions(self):
+        # Support for MacOS will be comming soon (CMD)
         """
         Creates the actions for opening, saving, and exiting files,
         as well as for font and color customization.
